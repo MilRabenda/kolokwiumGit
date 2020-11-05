@@ -1,4 +1,8 @@
 zmiana01
 zmiana03
+<<<<<<< HEAD
 zmiana04
 zmiana05
+=======
+zmiana04
+>>>>>>> prostaWersja
